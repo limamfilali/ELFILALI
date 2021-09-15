@@ -19,8 +19,8 @@
 - Cloud Computing ✍️
 
 <a href="https://gitstats.me/aayuvraj">
-    <img width="420" height="auto" align="right" alt="Aayush's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=aayuvraj&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
+    <img width="420" height="auto" align="right" alt="LIMAM's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=limamfilali&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
 </a>
 
 🛠**Tech Stack**
