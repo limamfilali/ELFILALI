@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-aayush_shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/limam-el-filali-1013b819a/)](https:https://www.linkedin.com/in/limam-el-filali-1013b819a/)
 [![Gmail Badge](https://img.shields.io/badge/-elfilalilimame@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elfilalilimame@gmail.com)](mailto:elfilalilimame@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https:http://limam.me/MYPORTFOLIO/)
+- 🎯 Portfolio website: [Portfolio](http://limam.me/MYPORTFOLIO/)
 - ⚡ Motivation: The only way to learn something new is by implementing it.🤓
 
 💻 **Things I love**
